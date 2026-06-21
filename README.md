@@ -1,9 +1,8 @@
 # Hi, I'm Yuu 
 
 中京大学 情報工学科 3年 / 2028年卒
-組み込みエンジニアを目指して学習中。
-IoT・スマートデバイスに興味があり、Arduino × Python で
-ソフトとハードの連携を勉強しています。
+エンジニアを目指して学習中。
+
 
 ## 使用技術
 
@@ -18,6 +17,11 @@ IoT・スマートデバイスに興味があり、Arduino × Python で
 - [arduino_project1](https://github.com/yuu403/arduino_project1)
   Arduino を使った組み込み学習ポートフォリオ。
   LED制御・状態遷移・センサ入力・PWM制御を段階的に実装。
+
+- [snsproject](https://github.com/yuu403/Django_snsapp)
+  Djangoを用いて開発したSNSアプリ
+  ユーザー登録・ログイン機能をはじめ、投稿、コメント、いいね、フォロー機能を実装
+  
 
 ##  現在学習中
 
